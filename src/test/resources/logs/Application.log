@@ -1,0 +1,14 @@
+15/09/2020 17:25:56 HoneyleeLogger loading the config property file
+		      15/09/2020 17:25:59 HoneyleeLogger chrome browser launched
+		      15/09/2020 17:26:03 HoneyleeLogger window maximized
+		      15/09/2020 17:26:03 HoneyleeLogger verify login test started
+		      15/09/2020 17:26:04 HoneyleeLogger verify login test completed
+		      15/09/2020 17:26:04 HoneyleeLogger verifyAddPayee test started
+		      15/09/2020 17:26:05 HoneyleeLogger verifyAddPayee test completed
+		      15/09/2020 17:26:06 HoneyleeLogger verifyTransferFund test started
+		      15/09/2020 17:26:06 HoneyleeLogger verifyTransferFund test completed
+		      15/09/2020 17:26:06 HoneyleeLogger verifyPayBills test started
+		      15/09/2020 17:26:07 HoneyleeLogger verifyPayBills test started
+		      15/09/2020 17:26:07 HoneyleeLogger verifyOnlineStatement test started
+		      15/09/2020 17:26:08 HoneyleeLogger verifyOnlineStatement test completed
+		      

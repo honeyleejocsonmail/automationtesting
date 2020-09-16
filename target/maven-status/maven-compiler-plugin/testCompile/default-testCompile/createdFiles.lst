@@ -1,0 +1,16 @@
+base\BaseClass.class
+pageClasses\LoginPage.class
+testCases\TestCase002_verifyAddPayee.class
+testCases\TestCase003_verifyTransferFund.class
+pageClasses\AccountSummaryPage.class
+pageClasses\OnlineStatementsPage.class
+testCases\ExtentFactory.class
+pageClasses\TransferFundPage.class
+base\BasePage.class
+testCases\Screenshots.class
+testCases\TestCase005_verifyOnlineStatementDownload.class
+testCases\TestCase001_verifyLogin.class
+pageClasses\HomePage.class
+pageClasses\PayBillsPage.class
+testCases\TestCase004_verifyPayBills.class
+pageClasses\DownloadPage.class

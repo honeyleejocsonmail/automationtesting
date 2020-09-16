@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="10" total="15" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5705" started-at="2020-09-15T21:26:03Z" finished-at="2020-09-15T21:26:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5705" started-at="2020-09-15T21:26:03Z" finished-at="2020-09-15T21:26:08Z">
+      <class name="testCases.TestCase004_verifyPayBills">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase004_verifyPayBills@670002]" name="setup" is-config="true" duration-ms="2" started-at="2020-09-15T21:26:06Z" finished-at="2020-09-15T21:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPayBills()[pri:0, instance:testCases.TestCase004_verifyPayBills@670002]" name="verifyPayBills" duration-ms="670" started-at="2020-09-15T21:26:06Z" finished-at="2020-09-15T21:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPayBills -->
+        <test-method status="PASS" signature="screenshot(org.testng.ITestResult)[pri:0, instance:testCases.TestCase004_verifyPayBills@670002]" name="screenshot" is-config="true" duration-ms="326" started-at="2020-09-15T21:26:07Z" finished-at="2020-09-15T21:26:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPayBills status=SUCCESS method=TestCase004_verifyPayBills.verifyPayBills()[pri:0, instance:testCases.TestCase004_verifyPayBills@670002] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:testCases.TestCase004_verifyPayBills@670002]" name="closesetup" is-config="true" duration-ms="17" started-at="2020-09-15T21:26:07Z" finished-at="2020-09-15T21:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- testCases.TestCase004_verifyPayBills -->
+      <class name="testCases.TestCase001_verifyLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase001_verifyLogin@1e802ef9]" name="setup" is-config="true" duration-ms="131" started-at="2020-09-15T21:26:03Z" finished-at="2020-09-15T21:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testCases.TestCase001_verifyLogin@1e802ef9]" name="verifyLogin" duration-ms="714" started-at="2020-09-15T21:26:03Z" finished-at="2020-09-15T21:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="screenshot(org.testng.ITestResult)[pri:0, instance:testCases.TestCase001_verifyLogin@1e802ef9]" name="screenshot" is-config="true" duration-ms="462" started-at="2020-09-15T21:26:04Z" finished-at="2020-09-15T21:26:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SUCCESS method=TestCase001_verifyLogin.verifyLogin()[pri:0, instance:testCases.TestCase001_verifyLogin@1e802ef9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:testCases.TestCase001_verifyLogin@1e802ef9]" name="closesetup" is-config="true" duration-ms="154" started-at="2020-09-15T21:26:04Z" finished-at="2020-09-15T21:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- testCases.TestCase001_verifyLogin -->
+      <class name="testCases.TestCase002_verifyAddPayee">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase002_verifyAddPayee@2b6faea6]" name="setup" is-config="true" duration-ms="1" started-at="2020-09-15T21:26:04Z" finished-at="2020-09-15T21:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyAddPayee()[pri:0, instance:testCases.TestCase002_verifyAddPayee@2b6faea6]" name="verifyAddPayee" duration-ms="904" started-at="2020-09-15T21:26:04Z" finished-at="2020-09-15T21:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddPayee -->
+        <test-method status="PASS" signature="screenshot(org.testng.ITestResult)[pri:0, instance:testCases.TestCase002_verifyAddPayee@2b6faea6]" name="screenshot" is-config="true" duration-ms="342" started-at="2020-09-15T21:26:05Z" finished-at="2020-09-15T21:26:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddPayee status=SUCCESS method=TestCase002_verifyAddPayee.verifyAddPayee()[pri:0, instance:testCases.TestCase002_verifyAddPayee@2b6faea6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:testCases.TestCase002_verifyAddPayee@2b6faea6]" name="closesetup" is-config="true" duration-ms="23" started-at="2020-09-15T21:26:06Z" finished-at="2020-09-15T21:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- testCases.TestCase002_verifyAddPayee -->
+      <class name="base.BaseClass">
+        <test-method status="PASS" signature="init()[pri:0, instance:base.BaseClass@7f010382]" name="init" is-config="true" duration-ms="7129" started-at="2020-09-15T21:25:56Z" finished-at="2020-09-15T21:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:base.BaseClass@7f010382]" name="tearDown" is-config="true" duration-ms="675" started-at="2020-09-15T21:26:09Z" finished-at="2020-09-15T21:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- base.BaseClass -->
+      <class name="testCases.TestCase003_verifyTransferFund">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase003_verifyTransferFund@778d1062]" name="setup" is-config="true" duration-ms="2" started-at="2020-09-15T21:26:06Z" finished-at="2020-09-15T21:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTransferFund()[pri:0, instance:testCases.TestCase003_verifyTransferFund@778d1062]" name="verifyTransferFund" duration-ms="600" started-at="2020-09-15T21:26:06Z" finished-at="2020-09-15T21:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTransferFund -->
+        <test-method status="PASS" signature="screenshot(org.testng.ITestResult)[pri:0, instance:testCases.TestCase003_verifyTransferFund@778d1062]" name="screenshot" is-config="true" duration-ms="298" started-at="2020-09-15T21:26:06Z" finished-at="2020-09-15T21:26:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTransferFund status=SUCCESS method=TestCase003_verifyTransferFund.verifyTransferFund()[pri:0, instance:testCases.TestCase003_verifyTransferFund@778d1062] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:testCases.TestCase003_verifyTransferFund@778d1062]" name="closesetup" is-config="true" duration-ms="17" started-at="2020-09-15T21:26:06Z" finished-at="2020-09-15T21:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- testCases.TestCase003_verifyTransferFund -->
+      <class name="testCases.TestCase005_verifyOnlineStatementDownload">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase005_verifyOnlineStatementDownload@1f0f1111]" name="setup" is-config="true" duration-ms="2" started-at="2020-09-15T21:26:07Z" finished-at="2020-09-15T21:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyOnlineStatement()[pri:0, instance:testCases.TestCase005_verifyOnlineStatementDownload@1f0f1111]" name="verifyOnlineStatement" duration-ms="632" started-at="2020-09-15T21:26:07Z" finished-at="2020-09-15T21:26:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOnlineStatement -->
+        <test-method status="PASS" signature="screenshot(org.testng.ITestResult)[pri:0, instance:testCases.TestCase005_verifyOnlineStatementDownload@1f0f1111]" name="screenshot" is-config="true" duration-ms="373" started-at="2020-09-15T21:26:08Z" finished-at="2020-09-15T21:26:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOnlineStatement status=SUCCESS method=TestCase005_verifyOnlineStatementDownload.verifyOnlineStatement()[pri:0, instance:testCases.TestCase005_verifyOnlineStatementDownload@1f0f1111] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:testCases.TestCase005_verifyOnlineStatementDownload@1f0f1111]" name="closesetup" is-config="true" duration-ms="17" started-at="2020-09-15T21:26:08Z" finished-at="2020-09-15T21:26:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- testCases.TestCase005_verifyOnlineStatementDownload -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

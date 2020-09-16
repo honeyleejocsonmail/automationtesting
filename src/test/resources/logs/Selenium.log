@@ -1,0 +1,38 @@
+17:25:56,169  INFO HoneyleeLogger:41 - loading the config property file
+17:25:59,489  INFO HoneyleeLogger:49 - chrome browser launched
+17:26:03,287  INFO HoneyleeLogger:60 - window maximized
+17:26:03,436  INFO HoneyleeLogger:40 - verify login test started
+17:26:04,147  INFO HoneyleeLogger:56 - verify login test completed
+17:26:04,627 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+17:26:04,627 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+17:26:04,628 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:26:04,629 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:26:04,629 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/rechi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:26:04,769  INFO HoneyleeLogger:40 - verifyAddPayee test started
+17:26:05,671  INFO HoneyleeLogger:56 - verifyAddPayee test completed
+17:26:06,015 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+17:26:06,015 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+17:26:06,016 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:26:06,016 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:26:06,017 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/rechi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:26:06,039  INFO HoneyleeLogger:35 - verifyTransferFund test started
+17:26:06,638  INFO HoneyleeLogger:48 - verifyTransferFund test completed
+17:26:06,937 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+17:26:06,938 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+17:26:06,938 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:26:06,938 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:26:06,938 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/rechi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:26:06,957  INFO HoneyleeLogger:38 - verifyPayBills test started
+17:26:07,627  INFO HoneyleeLogger:54 - verifyPayBills test started
+17:26:07,955 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+17:26:07,955 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+17:26:07,955 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:26:07,955 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:26:07,955 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/rechi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:26:07,973  INFO HoneyleeLogger:38 - verifyOnlineStatement test started
+17:26:08,605  INFO HoneyleeLogger:72 - verifyOnlineStatement test completed
+17:26:08,979 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+17:26:08,979 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+17:26:08,979 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:26:08,979 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:26:08,980 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/rechi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
